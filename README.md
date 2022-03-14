@@ -1,7 +1,8 @@
 ### Hello World! ✋ I'm Wanderson
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandersoncesar/)](https://www.linkedin.com/in/wandersoncesar/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_wandersoncesar)](https://twitter.com/_wandersoncesar)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/wandersoncesar/)](https://www.linkedin.com/in/wandersoncesar/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/_wandersoncesar)](https://twitter.com/_wandersoncesar)
+[![Instagram Badge](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wandersoncesar.dev)](https://www.instagram.com/wandersoncesar.dev)
 
 I'm a JavaScript and Typescript developer from Brazil. I am currently working on developing front-end applications using mainly Angular and React.
 Despite working most of the time with front-end, I also develop back-end applications using Node.js.
